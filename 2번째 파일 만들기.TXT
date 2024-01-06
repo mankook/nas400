@@ -1,0 +1,10 @@
+sourcetree를 이용해서 remote gitlab과 파일 동기화 하기 
+
+1. 먼저 gitlab repository에 프로젝트 추가 
+2. sourcetree에서 remote 계정 추가를 통해서 연결 
+3. clone를 통해서 연결 
+4. 파일을 추가하고 
+5. stage에 올리기 
+6. commit하기 
+7. push하기 
+8. 우상단의 원격을 누르면 업로드 된 것을 확인할 수 있음 
