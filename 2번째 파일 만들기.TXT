@@ -1,5 +1,5 @@
 sourcetree를 이용해서 remote gitlab과 파일 동기화 하기 
-
+시작은 먼저 gitlab으로 부터 시작함 ( 어쨋든 프로젝트는 있어야 하는 것이니까 ) 
 1. 먼저 gitlab repository에 프로젝트 추가 
 2. sourcetree에서 remote 계정 추가를 통해서 연결 
 3. clone를 통해서 연결 
