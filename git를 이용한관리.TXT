@@ -1,0 +1,6 @@
+- github에 계정 생성 
+- 로그인
+- repository 생성 
+- sourcetree에서 연결 
+    - OAuth -> 개인 연결 
+    - 브라우저에서 로그인 
